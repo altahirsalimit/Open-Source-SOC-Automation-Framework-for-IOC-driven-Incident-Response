@@ -120,7 +120,6 @@ literature, not from a parallel measured control group.
 ## Documentation
 
 - `docs/thesis-ar.pdf` — full thesis (Arabic, with English abstract)
-- `docs/technical-documentation-ar.pdf` — step-by-step build and configuration guide (Arabic)
 
 ## Built with
 
