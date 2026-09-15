@@ -91,7 +91,7 @@ Requires Docker and Docker Compose, ~20 GB RAM for the full stack, and a Wazuh s
 
 ```bash
 git clone https://github.com/altahirsalimit/Open-Source-SOC-Automation-Framework-for-IOC-driven-Incident-Response
-cd <repo>/deploy
+cd Open-Source-SOC-Automation-Framework-for-IOC-driven-Incident-Response/deploy
 cp .env.example .env        # then edit: set HOST_IP and generate real secrets
 docker compose up -d
 ```
